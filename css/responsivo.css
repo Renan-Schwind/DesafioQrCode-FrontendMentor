@@ -1,0 +1,9 @@
+@media (max-width:376px) {
+   .container { 
+       width: 45vh;
+   }
+
+   .container img{
+       height: 45vh;
+   }
+  }
